@@ -3,7 +3,7 @@
 export NEZHA_SERVER=${NEZHA_SERVER:-'nz.nightelf.link'}
 export NEZHA_PORT=${NEZHA_PORT:-'5555'}
 export NEZHA_KEY=${NEZHA_KEY:-'LE0x8Wp96SDlb06Gg3'}
-export TLS=${TLS:-'1'}
+export TLS=${TLS:-'0'}
 export ARGO_DOMAIN=${ARGO_DOMAIN:-''}
 export WEB_DOMAIN=${WEB_DOMAIN:-'git2.zeabur.app'}
 export ARGO_AUTH=${ARGO_AUTH:-''}
