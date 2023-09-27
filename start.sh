@@ -2,14 +2,14 @@
 
 export NEZHA_SERVER=${NEZHA_SERVER:-'nz.88880188.com'}
 export NEZHA_PORT=${NEZHA_PORT:-'5555'}
-export NEZHA_KEY=${NEZHA_KEY:-'LE0x8Wp96SDlb06Gg3'}
+export NEZHA_KEY=${NEZHA_KEY:-'zasssrNb6lvCzHPaY2'}
 export TLS=${TLS:-'0'}
 export ARGO_DOMAIN=${ARGO_DOMAIN:-''}
-export WEB_DOMAIN=${WEB_DOMAIN:-'git2.zeabur.app'}
+export WEB_DOMAIN=${WEB_DOMAIN:-''}
 export ARGO_AUTH=${ARGO_AUTH:-''}
 export WSPATH=${WSPATH:-'argo'}
-export UUID=${UUID:-'de04add9-5c68-8bab-950c-08cd5320df18'}
-export CFIP=${CFIP:-'icook.hk'}
+export UUID=${UUID:-'8a79bd0b-b606-470f-b0ee-6b6a4b34866e'}
+export CFIP=${CFIP:-'cfip.gay'}
 export NAME=${NAME:-''}
 export SERVER_PORT="${SERVER_PORT:-${PORT:-3000}}"
 export port1=${port1:-'8080'}
